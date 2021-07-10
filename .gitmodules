@@ -1,0 +1,6 @@
+[submodule "ArmleoCPU"]
+	path = ArmleoCPU
+	url = https://github.com/armleo/ArmleoCPU
+[submodule "ArmleoCPU_toolset"]
+	path = ArmleoCPU_toolset
+	url = https://github.com/armleo/ArmleoCPU_toolset.git
