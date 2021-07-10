@@ -18,3 +18,10 @@ QEMU modification to bring ArmleoPC support.
 
 ## ArmleoPC_sky130
 Skywater130 tape out top project.
+
+# Getting started
+Run following to install all subdirectories:
+
+```
+git submodule update --init --recursive
+```
