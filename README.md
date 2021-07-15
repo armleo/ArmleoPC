@@ -6,8 +6,9 @@ This is the core itself. It contains all the RTL and all the tests.
 See: https://github.com/armleo/ArmleoCPU
 
 ## ArmleoCPU_toolset
-Prebuilt Docker image with predefined Yosys, Verilator, Icarus Verilog and RISCV GNU Toolchain used to do basic verification of ArmleoCPU.
+Prebuilt Docker image with predefined toolset used to do basic verification of ArmleoCPU.
 See: https://github.com/armleo/ArmleoCPU_toolset
+See: https://hub.docker.com/repository/docker/armleo/armleocpu_toolset
 
 ## ArmleoPC_zsbl
 Zero stage boot loader. A simple assembler file which is used to reset register values and read data from SPI flash into boot memory
